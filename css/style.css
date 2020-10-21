@@ -15,6 +15,9 @@ body{
   background-color: #030303;
   margin: auto;
   height: 60vh;
+  padding: 33px;
+  overflow: auto;
+  margin-bottom: 23px;
 
 }
 
@@ -43,4 +46,19 @@ body{
   width: 100%;
   display: block;
   margin: auto;
+}
+
+#messageImp{
+  width: 92%;
+  border: 2px solid black;
+  border-radius: 6px;
+  height: 34px;
+
+}
+
+.btn{
+  cursor: pointer;
+  border: 2px solid black;
+  height: 34px;
+
 }
